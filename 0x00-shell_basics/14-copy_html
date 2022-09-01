@@ -1,2 +1,2 @@
 #!/bin/bash
-cp a.html less 
+cp -rua *.html ../  
