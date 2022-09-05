@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "\"(Ôo)' "
+echo -e "\[1f600-1f64f]"
